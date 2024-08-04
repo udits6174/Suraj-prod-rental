@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      Initialise
+      Home page
     </>
   );
 }
